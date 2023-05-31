@@ -6,7 +6,7 @@ menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.</
 
 # Membuat Database & Table
 ## Studi Kasus Data Artikel
-![Studi Kasus](ss/1.png.png)
+![Studi Kasus](ss/1.png)
 
 1. Buat Database baru dengan nama `lab4_ci` dengan query berikut.
 ```sql
